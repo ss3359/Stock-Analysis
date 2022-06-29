@@ -135,6 +135,8 @@ Once we ran this subroutine, we get the following stock outputs for the years 20
 
 <img width="859" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/104328106/175700239-536728e1-4578-4db6-8a08-ac7fd56a55be.png">
 
+By looking at this information, we can say the compiler execuited the code, and dispplayed the proper total daily volumes and percent change at a fast run time. However, the run time was not as fast as we want it to be. Therefore, at this point, we have refined our code so it will not only display the right information, but will execute at a faster run time. 
+
 From the subroutine, we have the code running properly and diplaying a considerably fast runtime. In this observation, we would expect the subroutine to run faster when we refactor the original code in AllStockAnalysis(). We have called the refactored version of this subroutine AllStockAnalysisRefactored(). Here is the code for the refactored version of the subroutine AllStocksAnalysis():  
 
 
